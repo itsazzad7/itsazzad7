@@ -10,10 +10,10 @@ I’m extremely passionate about web development and design.
 
 ##👨‍💻 Skills & Experiance:
 
-✅ WordPress
+✅ WordPress & WooCommerce
 ✅ JavaScript
-✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
+✅ React
+✅ HTML5 / CSS3 / SASS / Bootstrap /tailwin
 ✅ Photoshop / Illustrator
 
 - 🔭 I’m currently working on Cox's Bazar International University 
