@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm IT Sazzad
 ### Web Developer  
-![Web Developer](https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/293964179_130302176363952_6814058491955346614_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEmjmiOxZyRomx5Yb5wGiXduD9jTlwxPvq4P2NOXDE--p-rLcboVyjlGfbdNxes8Ikku3svzmV9C7Vl9y9rgq_z&_nc_ohc=IUmRY9nY_G8AX-rhBVQ&_nc_ht=scontent.fcgp3-2.fna&oh=00_AT8FBFa7WE78VO3mgE13lg6ie_KLf1vazMNKeEGBVQrbHg&oe=6300E620)
+https://raw.githubusercontent.com/itsazzad7/mail-signature/main/img/IT%20Sazzad-web%20developer.jpg
 
 
 ##🚀 About Me  
