@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm IT Sazzad
 ### Web Developer  
-https://raw.githubusercontent.com/itsazzad7/mail-signature/main/img/IT%20Sazzad-web%20developer.jpg
+(https://raw.githubusercontent.com/itsazzad7/mail-signature/main/img/IT%20Sazzad-web%20developer.jpg)
 
 
 ##🚀 About Me  
