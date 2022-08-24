@@ -2,7 +2,6 @@
 ### Web Developer  
 (https://raw.githubusercontent.com/itsazzad7/mail-signature/main/img/IT%20Sazzad-web%20developer.jpg)
 
-
 ##🚀 About Me  
 Hi! I am IT Sazzad, a web developer and graphic designer living in Cox's Bazar, Bangladesh. I spend my days with my hands in many different areas of web development from back end programming (Node.js) to front end engineering (HTML, CSS, Bootstrap, Tailwin, jQuery/Javascript,SPA, JSON and ReactJS ), digital accessibility, user experience and visual design. I’m extremely passionate about web development and design.
 
